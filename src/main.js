@@ -1,7 +1,8 @@
 import { createApp } from 'vue'
-import App from './app/common4.vue' 
+import App from './app3/choose.vue' 
 import router from './router'
 import store from './store'
+import '../public/common/style.css'
 
 createApp(App).use(store).use(router).mount('#app')
 //上一步相当于var app = vue.createapp(APP) app.use().mount()
