@@ -52,7 +52,7 @@
       <label for="blue1">蓝色</label>
       <input type="checkbox" disabled checked id="green">
          <label for="green1">绿色</label>
-      <input type="checkbox" disabled  id="red1">
+      <input type="checkbox" disabled checked id="red1">
          <label for="red1">红色</label>
     </div>
   </div>

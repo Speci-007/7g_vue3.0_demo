@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ev7ok8');
-  src:  url('fonts/icomoon.eot?ev7ok8#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ev7ok8') format('truetype'),
-    url('fonts/icomoon.woff?ev7ok8') format('woff'),
-    url('fonts/icomoon.svg?ev7ok8#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?mees3g');
+  src:  url('fonts/icomoon.eot?mees3g#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?mees3g') format('truetype'),
+    url('fonts/icomoon.woff?mees3g') format('woff'),
+    url('fonts/icomoon.svg?mees3g#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -125,14 +125,41 @@
 .icon-point-right:before {
   content: "\ea04";
 }
+.icon-warning:before {
+  content: "\ea07";
+}
+.icon-notification:before {
+  content: "\ea08";
+}
 .icon-question:before {
   content: "\ea09";
+}
+.icon-info:before {
+  content: "\ea0c";
 }
 .icon-cancel-circle:before {
   content: "\ea0d";
 }
+.icon-blocked:before {
+  content: "\ea0e";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
 .icon-play2:before {
   content: "\ea15";
+}
+.icon-circle-up:before {
+  content: "\ea41";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-circle-left:before {
+  content: "\ea44";
 }
 .icon-svg:before {
   content: "\eae9";
